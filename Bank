@@ -1,0 +1,6 @@
+//*bank*//
+Bank :
+Monthly interest rate : 5%
+At least 2 months interestrate update to : 25%
+We can store tokens in bank and take them out later
+*If there are decimals,round to nearest whole number.
