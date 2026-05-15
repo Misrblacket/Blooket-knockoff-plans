@@ -1,0 +1,26 @@
+```txt
+cavelet-backend/
+
+├── server.js
+├── package.json
+├── .env
+
+├── routes/
+│   ├── auth.js
+│   ├── users.js
+│   ├── market.js
+│   ├── packs.js
+│   ├── clans.js
+
+├── models/
+│   ├── User.js
+│   ├── Clan.js
+│   ├── Market.js
+
+├── middleware/
+│   ├── authMiddleware.js
+
+├── utils/
+│   ├── raritySystem.js
+│   ├── tokenSystem.js
+```
